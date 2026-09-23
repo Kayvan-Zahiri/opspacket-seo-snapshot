@@ -12,6 +12,7 @@ Public-homepage first pass (public HTML only — no CMS login):
 
 Sort into **P0 / P1 / P2**. Skip vanity scores and GSC/CMS work until after that list.
 
-**OpsPacket SEO Snapshot** ($99): https://kayvanandre.gumroad.com/l/seo-snapshot  
+**Free homepage punch-list:** https://opspacket.com/#free-sample  
+**Paid $49 Site Health Snapshot** (≤15 URLs + CSV + top-5): https://kayvanandre.gumroad.com/l/seo-snapshot  
 Landing: https://opspacket.com/  
 No ranking/traffic/revenue guarantees.
