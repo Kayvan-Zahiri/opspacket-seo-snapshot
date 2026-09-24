@@ -7,3 +7,5 @@
 - Teach page: https://kayvan-zahiri.github.io/opspacket-seo-snapshot/
 
 No ranking, traffic, or revenue guarantees. Public HTML only. Authorized URLs only.
+
+- Teach asset: [10-minute homepage SEO pass](docs/homepage-seo-10-minute-pass.md) — also on Pages: https://kayvan-zahiri.github.io/opspacket-seo-snapshot/homepage-seo-10-minute-pass.md
